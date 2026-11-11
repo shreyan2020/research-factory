@@ -1,7 +1,5 @@
 # Evidence-analysis lessons
 
-The [matched retrospective replay](https://github.com/shreyan2020/research-factory/blob/main/TESTING.md) found no overall preference for factory-guided analysis over ordinary analysis across eight excerpt pairs. Both conditions were judged source-supported by a blinded assistant. This is a reason to keep the workflow lean, not an accuracy estimate.
-
 | Trap | Transferable rule |
 |---|---|
 | Stronger provenance infrastructure was mistaken for stronger reasoning. | Retain infrastructure repairs while comparing substantive outcomes with a matched direct baseline. |

@@ -1,7 +1,5 @@
 # Unsupervised-method lessons
 
-The [retrospective diagnostic replay](https://github.com/shreyan2020/research-factory/blob/main/TESTING.md) found that a raw metric included zero-feature rows before a conservative override. Calling it a score conditional on representable rows would have been wrong. Saved diagnostics lacked the denominators needed to calculate coverage.
-
 Trace preprocessing, fitting, scoring, aggregation, and overrides to the actual implementation. Report the raw score, evaluated population, exclusions, and override separately. Do not recover an unrecorded denominator by assumption.
 
 Other transferable lessons:

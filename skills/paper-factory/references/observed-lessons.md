@@ -1,7 +1,5 @@
 # Paper-writing lessons
 
-The [retrospective replay](https://github.com/shreyan2020/research-factory/blob/main/TESTING.md) showed that retaining citations and numbers does not guarantee that a shortened passage retains its meaning. A missing population qualifier broadened a claim.
-
 Use a proposition comparison when shortening: actors, population, scope, conditions, modality, direction, and evidence status. An excerpt request needs excerpt-level validation; do not require a full submission build unless the user requested one.
 
 Other transferable lessons:

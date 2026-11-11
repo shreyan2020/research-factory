@@ -10,13 +10,11 @@ The coordinating structure was inspired by [Poteto mode](https://github.com/curs
 4. Failed runs and direct baselines remain visible. Complexity must justify its cost.
 5. Details are loaded only when relevant, keeping small tasks small.
 
-## Lessons and testing
+## Lessons
 
 - [Presentation lessons](../../presentation-factory/references/lessons.md)
 - [Paper lessons](../../paper-factory/references/observed-lessons.md)
 - [Evidence-analysis lessons](../../unstructured-data-factory/references/lessons.md)
 - [Unsupervised-method lessons](../../unsupervised-factory/references/lessons.md)
-
-See the [testing summary](https://github.com/shreyan2020/research-factory/blob/main/TESTING.md) for actual-work replays and their limits. The public edition retains generalized lessons; private artifacts and machine-specific provenance remain with their owner. These observations do not establish general model-performance improvements or current facts about other projects.
 
 When adapting the factory, inspect the current owning evidence, retain a concrete failure case, change the responsible specialist, and repeat an appropriate task. Keep observed behavior, proposed process changes, and demonstrated improvement distinct.

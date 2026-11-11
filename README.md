@@ -55,12 +55,8 @@ and presentation from the supported claims.
 
 Each skill has a short entry point and detailed references loaded only when relevant. Templates cover evidence records, experiment plans, claim ledgers, and revision responses.
 
-## Testing
-
-The skills were refined through retrospective replays on actual research and teaching artifacts. These caught a meaning-changing manuscript edit, presentation export problems, and a misleading interpretation of a clustering metric. An eight-case matched evidence comparison found no overall preference for skill-guided analysis. See [the testing summary](TESTING.md) for outcomes and limits.
-
 ## Origins and adaptation
 
 Created by Shreyan Biswas with Codex assistance. The coordinating structure was inspired by [Poteto mode](https://github.com/cursor/plugins/blob/main/pstack/skills/poteto-mode/SKILL.md); these are original research workflows, not a copy of that plugin.
 
-Adapt the skills to your question, corpus, audience, and tools. When refining one, retain a concrete failure, change the responsible guidance, and replay a representative task. A workflow skill does not itself authorize publication, spending, new experiments, or contacting other people.
+Adapt the skills to your question, corpus, audience, and tools. A workflow skill does not itself authorize publication, spending, new experiments, or contacting other people.
