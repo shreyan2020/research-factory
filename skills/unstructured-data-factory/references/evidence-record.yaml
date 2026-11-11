@@ -1,0 +1,49 @@
+# Field guide. Adapt to the project's schema; null means unrecorded, not false.
+record_id: null
+source:
+  id: null
+  version_hash: null
+  title: null
+  original_path_or_url: null
+  role: null
+  publication_date: null
+  capture_date: null
+  document_family: null
+  reporting_cycle: null
+unit:
+  id: null
+  extraction_version: null
+  original_text: null
+  analysis_text: null
+  context_reference: null
+  locator:
+    page: null
+    bounding_boxes: []
+    offset_start: null
+    offset_end_exclusive: null
+    offset_basis: null
+claim:
+  actor: null
+  action_or_relation: null
+  object_or_outcome: null
+  comparator: null
+  value_or_direction: null
+  conditions: []
+  temporal_scope: null
+  assertion_status: null
+analysis:
+  operation: null
+  codebook_or_model_revision: null
+  assigned_codes: []
+  support_locators: []
+  uncertainty_reason: null
+review:
+  status: "unreviewed"
+  reviewer_type: null
+  quotation_checked: false
+  interpretation_checked: false
+  disagreements: []
+provenance:
+  run_id: null
+  parent_records: []
+  transformation_log: null

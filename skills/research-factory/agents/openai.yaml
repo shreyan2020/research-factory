@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Factory"
+  short_description: "Coordinate evidence, methods, papers, and presentations"
+  default_prompt: "Use $research-factory to turn these research materials into the requested deliverables, with source-linked findings and checks at each handoff."

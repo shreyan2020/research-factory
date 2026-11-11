@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unsupervised Factory"
+  short_description: "Discover and evaluate structure in research data"
+  default_prompt: "Use $unsupervised-factory to compare methods for this research question and deliver a source-grounded evaluation."

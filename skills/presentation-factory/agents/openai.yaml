@@ -1,0 +1,4 @@
+interface:
+  display_name: "Presentation Factory"
+  short_description: "Research decks and workshops with verified delivery"
+  default_prompt: "Use $presentation-factory to turn these materials into a clear presentation and verify the final deck."

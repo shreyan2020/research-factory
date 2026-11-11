@@ -1,0 +1,56 @@
+{
+  "record_status": "template_not_an_executed_experiment",
+  "run_id": null,
+  "question_and_intended_use": null,
+  "hypothesis_and_falsifier": null,
+  "exposure_status": null,
+  "prior_run_and_requested_change": null,
+  "corpus": {
+    "manifest_path_and_hash": null,
+    "analysis_unit": null,
+    "source_family_key": null,
+    "occurrence_provenance": null,
+    "inclusion_exclusion_rules": null,
+    "deduplication_and_context_policy": null,
+    "strata": [],
+    "unknown_dates_policy": null
+  },
+  "comparison": {
+    "baseline": null,
+    "candidates_and_mechanisms": [],
+    "fixed_factors": [],
+    "changed_factors": [],
+    "representation_and_preprocessing": null,
+    "split_and_fit_scope": null,
+    "parameter_range_and_seeds": null,
+    "selection_rule": null,
+    "compute_limit_and_stop_rule": null
+  },
+  "evaluation": {
+    "representation_coverage": null,
+    "statistical_metrics_and_population": null,
+    "stability_perturbations": null,
+    "confounds_and_controls": null,
+    "thresholds_and_rationale": null,
+    "semantic_rubric": null,
+    "sampling_frame_and_weights": null,
+    "reviewer_provenance_and_blinding": null,
+    "disagreement_handling": null,
+    "downstream_utility_measure": null
+  },
+  "execution": {
+    "code_and_config_versions": null,
+    "model_and_cache_identity": null,
+    "commands_and_receipts": null,
+    "raw_outputs_and_failures": null,
+    "excluded_or_noise_ids": null,
+    "actual_cost_and_scope": null
+  },
+  "results": {
+    "raw_metrics_and_denominators": null,
+    "overrides_and_conditional_metrics": null,
+    "semantic_results_and_unresolved_cases": null,
+    "decision_and_alternative_explanation": null,
+    "limitations_and_next_discriminating_test": null
+  }
+}

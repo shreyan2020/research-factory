@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unstructured Data Factory"
+  short_description: "Turn messy sources into verifiable research evidence"
+  default_prompt: "Use $unstructured-data-factory to turn these documents into a source-linked analysis, checking extraction and meaning separately."
