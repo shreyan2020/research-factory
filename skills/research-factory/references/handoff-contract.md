@@ -55,3 +55,9 @@ A missing field should constrain the downstream claim rather than invite inventi
 ## Completion vocabulary
 
 Use clear, distinct states such as planned, running, executed, reviewed, delivered, and blocked with reason. A single green check should not conflate them. A protocol file may be delivered while its experiment is unexecuted. A software check may pass while a semantic claim fails. An artifact can be ready while a user-controlled sign-in remains pending.
+
+## Carry decisions as well as evidence
+
+For iterative work, include the user's chosen narrative or method, deliberately excluded content, rejected alternatives, retained assets or citation keys, and the latest authoritative artifact. Record why a decision applies and whether it has been superseded. Do not ask users to restate preferences already recoverable from their corrections.
+
+Verify these decisions at each handoff. A downstream worker can preserve every number while changing the argument, restore filtered content while expanding a corpus, or reintroduce a disclaimer removed in an earlier draft. These are regressions even when format and software checks pass.

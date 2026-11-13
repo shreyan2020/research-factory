@@ -51,3 +51,11 @@ Avoid “the first,” “no prior work,” and “state of the art” unless th
 For each paragraph, identify its claim, supporting evidence, and connection to the next step of the argument. Use author-led citations when discussing what researchers did, following the draft's citation convention; in a compatible LaTeX/natbib manuscript this may be `\citet{key}`. Use parenthetical citations for support when the author is not the sentence's subject. Do not change citation packages merely to impose this preference.
 
 Check the background subsection by subsection: what does this literature establish, what uncertainty remains, and how does the present design address it? Avoid a final sentence that mechanically declares a gap without evidence.
+
+## Preserve the author's argument and citation mechanics
+
+When the user selects a narrative or supplies a final introduction, use that as the argument to develop. Do not substitute a new framing because it fits a familiar paper template. Explain how each paragraph advances the selected question and connects to the next; a sequence of individually relevant paragraphs is insufficient.
+
+For a literature comparison, name the relevant prior study's actual task, evidence, or method and the specific difference the current design supports. Replace “we build on these concerns” with that concrete relationship. Do not invent what prior work failed to do; distinguish unreported, inaccessible, and established absence. Track user-nominated papers through inclusion, deferral, or an explained exclusion rather than silently dropping them.
+
+Preserve existing bibliography keys when merging references. In a manuscript using textual citations, use its citation command (for example `\citet{key}`) rather than manually writing “X and colleagues” and duplicating the author name. Check the resulting sentence as well as compilation. Keep the user's final wording, retained figures, and reserved edits unless the requested revision affects them.

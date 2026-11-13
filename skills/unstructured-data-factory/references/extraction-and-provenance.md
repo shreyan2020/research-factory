@@ -45,3 +45,9 @@ Use content hashes to detect duplicate uploads, while retaining separate bibliog
 - Name remaining extraction uncertainty; do not describe the entire corpus as clean because a sample passed.
 
 Keep audit detail in the methods record. Put only limitations that change interpretation into the audience-facing result.
+
+## Corpus expansion must retain cleaning decisions
+
+Adding relevant documents changes the source inventory, not permission to restore navigation, cookie tables, boilerplate, or other records deliberately excluded from the analysis unit. Carry exclusion reasons and cleaning rules forward. Show added documents, derived eligible units, and rejected material separately; document coverage and eligible text coverage answer different questions.
+
+Before declaring metadata missing, inspect the relevant document content and available source records. A date of an event mentioned in prose is not automatically the reporting period, and a filename heuristic is not proof of either. Retain the evidence and uncertainty instead of forcing a convenient eligibility decision.

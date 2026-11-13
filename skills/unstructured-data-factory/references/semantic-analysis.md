@@ -73,3 +73,9 @@ Malformed output: retain the failed attempt; simplify the schema or output mecha
 Unsupported labels: repair source roles, scope, and evidence selection before adding another unconstrained reviewer. Use deterministic span selection when exact quotation is the problem.
 
 Repeated baseline losses: keep improvements to infrastructure, reject the unsupported method claim, identify the premise causing failure, and define one discriminating next test. A proposal remains a proposal until run.
+
+## Make interpretive disagreement inspectable
+
+If the user challenges a label such as “fails source fidelity”, identify the exact generated proposition, supporting span, context, and criterion at issue. Distinguish unsupported direction, wrong actor, missing qualifier, and a merely different level of abstraction. Quote presence alone does not settle support, but neither does an unexplained evaluator verdict. Reconsider the judgment when the source supports the user's reading.
+
+When the user reserves semantic validation for themselves, provide source-linked outputs and review controls without presenting assistant judgments as adjudicated labels. Keep execution errors distinct from disputed interpretations. This does not authorize concealing known errors; report the concrete mismatch without replacing the requested analysis with an unsolicited verdict.

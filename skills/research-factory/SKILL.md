@@ -22,6 +22,8 @@ The specialist skills are sibling directories. Pass their absolute paths to dele
 
 Typical chains are documents → evidence → manuscript, or existing paper → talk. Clustering is optional. Existing results do not need to be rerun merely to make slides. A method proposal is not permission to launch a research program.
 
+For requests to learn from past work or audit these skills, read [history grounding](references/history-grounding.md). Separate explicit user decisions, artifact observations, external guidance, and design inferences before calling a workflow personalized.
+
 ## Start from what exists
 
 State the intended outcome and the first concrete action briefly. Read current project instructions, latest user-edited artifacts, relevant source records, and active experiment status. Use history to identify lessons, then check the owning evidence for consequential claims. Do not treat an old server status, corpus count, or manuscript version as current.

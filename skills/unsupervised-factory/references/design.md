@@ -41,3 +41,11 @@ Keep structured records, navigation, and substantive prose distinguishable. Incl
 State the credible baseline, candidate mechanisms, permitted parameter ranges, sampling/seed plan, primary selection criterion, minimum useful coverage, semantic-review plan, and resource limit. Use pilot failures to refine a development protocol; freeze the revised protocol before fresh evaluation. Keep all searched candidates in the record so the chosen result is interpretable.
 
 One fixed seed tests repeatability of that run. Multiple seeds test one source of sensitivity. Neither replaces source-family resampling, corpus perturbations, semantic review, or downstream usefulness. Repeatedly producing the same interpretation may merely reproduce the same mistake.
+
+## Explain where guidance actually enters
+
+For seeded or semi-supervised work, show the actual chain: who reads the codebook, whether positive and negative examples select inputs or constrain an objective, what the clustering algorithm receives, and when themes are inferred. An LLM assigning parent classes before ordinary clustering is not equivalent to seed-constrained clustering. Settle that distinction before interpreting a pilot as the requested method.
+
+Expose the run's model, prompt/template version, configuration, assignment files, representative texts, and theme outputs. The user should be able to trace a theme to the code and source samples without guessing which script produced it. Leave deliberately unseeded categories unseeded; do not invent examples to fill a schema.
+
+For corpus additions, reconcile changes in unit counts and cluster counts against the prior run. Explain effects of changed eligible documents, grouping, and settings separately. An unexpected count change is a reason to inspect the run contract, not to defend a redesigned pipeline merely because it completed.
