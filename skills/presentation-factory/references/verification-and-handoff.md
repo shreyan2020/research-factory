@@ -45,3 +45,5 @@ Internally distinguish:
 If the final deck is in a viewer with download capability, state that precisely. Do not call a downloadable viewer link a completed local file export. If an explicit file export cannot be completed, identify that remaining deliverable rather than treating the task as fully finished.
 
 Keep the user-facing handoff short: the deck, requested supporting material, and any limitation they need to act on. Do not fill it with self-ratings or a recap of routine verification.
+
+Use [visual design](visual-design.md) and [iterative authoring](iterative-authoring.md) for figure selection, audience-facing copy, humorous scenarios, reveal states, and preserving the latest editorial decisions.

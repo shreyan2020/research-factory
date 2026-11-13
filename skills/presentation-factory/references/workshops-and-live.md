@@ -38,3 +38,5 @@ When an integration is blocked, preserve completed content and explain the concr
 Preserve the user's selected output destination and editable artifact when falling back. Do not silently switch a requested native file into a different product, or claim an export exists because a viewer offers export. If the fallback changes an explicit requirement, obtain that missing decision while completing independent work.
 
 Keep earlier configurations intact unless the user asked to delete them. Make the current classroom copy identifiable so the presenter does not open the abandoned integration version by mistake.
+
+Use [visual design](visual-design.md) and [iterative authoring](iterative-authoring.md) for figure selection, audience-facing copy, humorous scenarios, reveal states, and preserving the latest editorial decisions.

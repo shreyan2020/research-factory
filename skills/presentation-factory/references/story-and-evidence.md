@@ -40,3 +40,5 @@ Use primary sources for substantive claims. Verify bibliographic details and the
 Before editing, inspect the current artifact and the user's latest requested changes. For a limited revision, maintain a short internal list of affected slides and propagate consequential changes to references, notes, captions, and numbering. A content source is not automatically a design template.
 
 When shortening, remove duplicate explanations and weak examples before removing essential methods or qualifiers. Move detailed backup material to an appendix only if the user permits it and the presentation remains understandable. Avoid shrinking all text to meet an arbitrary density target.
+
+Use [visual design](visual-design.md) and [iterative authoring](iterative-authoring.md) for figure selection, audience-facing copy, humorous scenarios, reveal states, and preserving the latest editorial decisions.

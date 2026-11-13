@@ -17,6 +17,12 @@ Read the available **Presentations** format skill before creating or changing a 
 
 If the user requests only an outline, slide text, or speaker notes, deliver and check that text. Do not create a deck, require a rendering workflow, or report an export as pending when no exported deck was requested.
 
+## Required editorial and visual pass
+
+For substantive deck work, read [visual design and audience-facing copy](references/visual-design.md) and [iterative authoring](references/iterative-authoring.md) before selecting assets or changing slides. These cover disclaimer/meta-text removal, purposeful emojis and humor, research-figure adaptation, realistic screenshots, chart choice, coherent examples, click reveals, and projector readability. Use [design basis](references/design-basis.md) to distinguish user decisions from the supplied PYR course guidance.
+
+Do not replace these decisions with “keep it concise” or a generic aesthetic checklist. A readable export can still be a bland, incoherent, or pedagogically unusable presentation.
+
 ## Choose the work mode
 
 | Request | Read next | Main decision |
