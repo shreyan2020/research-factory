@@ -23,7 +23,7 @@ An expanded paper can connect several studies around one question, but preserve 
 
 ## Choosing among narratives
 
-Compare only genuinely plausible accounts. Use a short matrix:
+Use the [branch-and-select workflow](branch-and-select.md): prepare compact trees and reader previews for genuinely different framings, then let the author select before expanding one. A comparison table alone is not enough to review a narrative. Use this matrix alongside the branch cards:
 
 | Candidate framing | Evidence explained | Difficult or conflicting evidence | Extra assumptions | Closest precedent | Decision or next discriminating observation |
 |---|---|---|---|---|---|
@@ -31,9 +31,9 @@ Compare only genuinely plausible accounts. Use a short matrix:
 
 Do not equate rhetorical appeal with evidential support. A descriptive or diagnostic contribution may be defensible when a mechanism or superiority claim is not. If a new analysis would distinguish narratives, describe it as proposed and seek authorization only when execution falls outside the task.
 
-## From tree to paper
+## From selected tree to paper
 
-Write one sentence per beat before drafting paragraphs:
+After the author selects a branch or explicitly delegates the choice, write one sentence per beat before drafting paragraphs:
 
 | Beat | The reader should be able to answer |
 |---|---|

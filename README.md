@@ -22,8 +22,9 @@ For other agents that support `SKILL.md`, install the directories using that age
 ## Use
 
 ```text
-Use $research-narrative to connect our protocol and results into a narrative tree.
-Show alternative interpretations and map the supported claims into a paper outline.
+Use $research-narrative to develop different narrative branches from our protocol,
+results, and literature. Show trees and trade-offs; let me choose a branch before
+expanding it into the full paper storyboard.
 ```
 
 ```text

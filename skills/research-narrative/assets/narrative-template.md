@@ -9,7 +9,8 @@ Use existing project records and IDs. Remove unused sections rather than deliver
 - Publication/artifact type and version; conflicts between sources and their disposition:
 - Registration or protocol reference and version:
 - Timing and known exposure; unknowns:
-- Narrative status: proposed / selected by author / revised:
+- Narrative status: developing branches / awaiting author selection / selected / revised:
+- Branch-set version; selected branch ID/version and author instruction (leave unselected until chosen):
 - Literature search date, sources/queries, date range, and access limits:
 
 ## Literature-to-motivation chain
@@ -62,17 +63,37 @@ For a method/system contribution, also link the motivating requirement to its im
 |---|---|---|---|---|---|
 | | | | | | |
 
-## Alternative framings
+## Branch cards for author review
 
-| Framing | Explained evidence | Counterevidence | Added assumptions | Closest precedent | Decision |
+For a new narrative, repeat this compact card for each genuinely different framing. Shared source/obligation records above apply to every branch; do not duplicate or selectively omit evidence. Keep the full storyboard below pending selection.
+
+### Branch [N1]: [working title]
+
+- Organizing question and one-sentence contribution:
+- Literature-to-gap-to-contribution route and inspected source IDs:
+- Compact argument tree with evidence, assumption and counterevidence IDs:
+- Short abstract spine and three to five section/figure beats:
+- What becomes central or supporting; important findings retained:
+- Strongest rival, added assumptions, unresolved evidence, and readiness:
+
+## Branch comparison and author decision
+
+| Branch ID/version | Distinct contribution | Strongest evidence | Main trade-off or limit | Relationship to other branches | Readiness |
 |---|---|---|---|---|---|
 | | | | | | |
 
-## Narrative tree
+- Recommendation and evidence-based rationale (not a selection):
+- Author's choice, revision request, or proposed combination:
+- Selected ID/version and requested adjustments; or awaiting author selection:
+- Preserved alternatives and unresolved scientific questions:
+
+Ask for the author's decision after presenting the branches. Do not fill the selected expansion or hand off drafting while that decision is pending, unless the user explicitly delegated the choice. Preserve an existing choice for routine revisions.
+
+## Selected narrative tree
 
 Use stable IDs and labeled support, requirement, or challenge edges. Keep sequence and causal arrows in separate views. Supply a plain-language equivalent when the renderer is unavailable.
 
-## Reader sequence
+## Selected reader sequence
 
 | Section or beat | Reader question | Answer in one sentence | Claim/evidence IDs | Figure and inferential job | Next question |
 |---|---|---|---|---|---|
@@ -80,7 +101,7 @@ Use stable IDs and labeled support, requirement, or challenge edges. Keep sequen
 
 ## Handoff
 
-- Recommended framing and why:
+- Selected framing, author decision/delegation, and why:
 - Literature-grounded motivation and the gap actually addressed by our results:
 - Central findings contextualized against published research:
 - Unresolved alternatives or missing evidence:
