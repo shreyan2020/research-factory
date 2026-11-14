@@ -1,10 +1,11 @@
 # Research Factory
 
-Five modular agent skills for turning source material into checked research outputs. Use one specialist for a bounded task, or the coordinator for work that crosses analysis, methods, writing, and presentations.
+Six modular agent skills for turning source material into checked research outputs. Use one specialist for a bounded task, or the coordinator for work that crosses analysis, methods, writing, and presentations.
 
 | Skill | What it does |
 |---|---|
 | [research-factory](skills/research-factory/SKILL.md) | Routes work and preserves evidence through handoffs |
+| [research-narrative](skills/research-narrative/SKILL.md) | Connects planned questions, evidence, alternative interpretations, and paper structure |
 | [presentation-factory](skills/presentation-factory/SKILL.md) | Builds research talks and workshops, with notes and delivery checks |
 | [paper-factory](skills/paper-factory/SKILL.md) | Develops arguments, revises manuscripts, and shortens prose without changing claims |
 | [unstructured-data-factory](skills/unstructured-data-factory/SKILL.md) | Extracts, codes, and compares evidence with source context |
@@ -14,11 +15,16 @@ The package contains instructions and templates, not a standalone application. I
 
 ## Install
 
-Clone or download this repository. Copy the five directories inside `skills/` into your Codex skills directory (normally `~/.codex/skills/`). Keep them as sibling folders so the coordinator's links resolve. Review existing folders before replacing an installed version. Start a new chat and invoke the relevant skill by name.
+Clone or download this repository. Copy the six directories inside `skills/` into your Codex skills directory (normally `~/.codex/skills/`). Keep them as sibling folders so the coordinator's links resolve. Review existing folders before replacing an installed version. Start a new chat and invoke the relevant skill by name.
 
 For other agents that support `SKILL.md`, install the directories using that agent's documented skill mechanism. The `agents/openai.yaml` files are optional Codex UI metadata; availability of companion tools varies.
 
 ## Use
+
+```text
+Use $research-narrative to connect our protocol and results into a narrative tree.
+Show alternative interpretations and map the supported claims into a paper outline.
+```
 
 ```text
 Use $presentation-factory to turn this paper into a 20-minute talk.

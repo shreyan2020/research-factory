@@ -17,6 +17,7 @@ The specialist skills are sibling directories. Pass their absolute paths to dele
 |---|---|---|
 | Extract, code, retrieve, or compare documentary evidence | [unstructured-data-factory](../unstructured-data-factory/SKILL.md) | Versioned units, source pointers, candidate claims, review status |
 | Discover topics, compare representations, or test unsupervised methods | [unsupervised-factory](../unsupervised-factory/SKILL.md) | Protocol, baselines, raw and derived metrics, semantic review, decision |
+| Choose a paper framing or connect planned questions, results, and claims | [research-narrative](../research-narrative/SKILL.md) | Commitments coverage, argument tree, rival interpretations, section/figure sequence |
 | Plan, draft, revise, or shorten a research paper | [paper-factory](../paper-factory/SKILL.md) | Claim-evidence map, revised manuscript, citations and artifact checks |
 | Create or revise a talk, workshop, or deck | [presentation-factory](../presentation-factory/SKILL.md) | Story, slides, notes, checked requested delivery format |
 

@@ -31,6 +31,8 @@ Use available context to resolve these. Ask only for an ambiguity that changes t
 
 ## 2. Build the argument from evidence
 
+When the task is to choose a framing, reconcile a protocol with findings, or build a narrative tree, use the sibling [research-narrative](../research-narrative/SKILL.md) if available. Carry its claim IDs, alternative interpretations, and planned-item coverage into the manuscript. Routine copyedits do not need that workflow.
+
 Read [claims and literature](references/claims-and-literature.md) when establishing claims, positioning novelty, or revising introduction/background/findings.
 
 Write a short argument spine before expanding a major rewrite: substantive problem → what existing work establishes → unresolved question → what this study can observe → contribution supported by the results. Each section should advance this argument rather than repeat a generic motivation.

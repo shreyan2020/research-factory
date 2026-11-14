@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Narrative"
+  short_description: "Connect research plans, evidence, and paper arguments"
+  default_prompt: "Use $research-narrative to build a source-linked narrative tree and paper outline from this project's questions, protocols, results, and closest literature."
