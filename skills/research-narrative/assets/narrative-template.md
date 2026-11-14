@@ -6,6 +6,7 @@ Use existing project records and IDs. Remove unused sections rather than deliver
 
 - Audience and requested deliverable:
 - Authoritative draft/results/figures:
+- Publication/artifact type and version; conflicts between sources and their disposition:
 - Registration or protocol reference and version:
 - Timing and known exposure; unknowns:
 - Narrative status: proposed / selected by author / revised:
@@ -42,6 +43,7 @@ For a prospective narrative, replace observed findings with conditional branches
 ### Claim [C1]
 
 - Proposition and scope:
+- Target construct, actual measure/comparison, assigned or measured variables, timing, and conditioning:
 - Evidence IDs, exact locators, version, and review status:
 - Estimate/observation with relevant units, denominator, and uncertainty:
 - Why this evidence supports the claim (warrant):
@@ -49,9 +51,12 @@ For a prospective narrative, replace observed findings with conditional branches
 - Strongest rival or counterevidence:
 - Relationship to published findings/theory and source IDs:
 - Current support and execution status:
+- Governing analysis rule and any disagreement with sensitivity analyses:
 - What would change this interpretation:
 
 ## Finding-to-literature map
+
+For a method/system contribution, also link the motivating requirement to its implemented component, evaluated property, and unevaluated aspiration. For linked studies, state each study's role and shared participants, stimuli, or other evidence. For a design implication, distinguish the supported finding from the proposed intervention and its additional assumption.
 
 | Our finding/evidence ID | Prior finding/theory and exact locator | Resemblance | Material differences | Corroborates / extends / qualifies / contradicts / not comparable | Warrant and remaining alternative |
 |---|---|---|---|---|---|
